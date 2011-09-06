@@ -1,4 +1,7 @@
 
+
+DOCUMENT OF NGUYEN QUOC NAM
+12323424242422424242424242
  ------------------------------------------------
 | idea about face recognition via webcam php code
 | http://forum.ubuntu-vn.org/viewtopic.php?f=101&t=13991(tu dong login with your face)
