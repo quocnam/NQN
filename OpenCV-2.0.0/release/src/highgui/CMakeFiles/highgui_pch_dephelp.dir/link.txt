@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libhighgui_pch_dephelp.a  CMakeFiles/highgui_pch_dephelp.dir/highgui_pch_dephelp.o
+/usr/bin/ranlib ../../lib/libhighgui_pch_dephelp.a

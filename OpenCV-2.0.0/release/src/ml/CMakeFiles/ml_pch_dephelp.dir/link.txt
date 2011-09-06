@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libml_pch_dephelp.a  CMakeFiles/ml_pch_dephelp.dir/ml_pch_dephelp.o
+/usr/bin/ranlib ../../lib/libml_pch_dephelp.a

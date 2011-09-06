@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libcxcore_pch_dephelp.a  CMakeFiles/cxcore_pch_dephelp.dir/cxcore_pch_dephelp.o
+/usr/bin/ranlib ../../lib/libcxcore_pch_dephelp.a

@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libcvtest_pch_dephelp.a  CMakeFiles/cvtest_pch_dephelp.dir/cvtest_pch_dephelp.o
+/usr/bin/ranlib ../../lib/libcvtest_pch_dephelp.a

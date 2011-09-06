@@ -1,0 +1,2 @@
+/usr/bin/ar cr ../../lib/libcvaux_pch_dephelp.a  CMakeFiles/cvaux_pch_dephelp.dir/cvaux_pch_dephelp.o
+/usr/bin/ranlib ../../lib/libcvaux_pch_dephelp.a

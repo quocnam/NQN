@@ -1,0 +1,108 @@
+# The set of languages for which implicit dependencies are needed:
+SET(CMAKE_DEPENDS_LANGUAGES
+  "CXX"
+  )
+# The set of files for implicit dependencies of each language:
+SET(CMAKE_DEPENDS_CHECK_CXX
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/camshift.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/camshift.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cv3dtracker.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cv3dtracker.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvadaptiveskindetector.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvadaptiveskindetector.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvaux.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvaux.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvauxprecomp.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvauxprecomp.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvauxutils.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvauxutils.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvba.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvba.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvbgfg_acmmm2003.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvbgfg_acmmm2003.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvbgfg_codebook.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvbgfg_codebook.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvbgfg_common.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvbgfg_common.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvbgfg_gaussmix.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvbgfg_gaussmix.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvcalibfilter.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvcalibfilter.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvclique.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvclique.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvcorrespond.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvcorrespond.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvcorrimages.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvcorrimages.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvcreatehandmask.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvcreatehandmask.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvdpstereo.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvdpstereo.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cveigenobjects.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cveigenobjects.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvepilines.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvepilines.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvface.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvface.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvfacedetection.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvfacedetection.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvfacetemplate.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvfacetemplate.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvfast.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvfast.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvfindface.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvfindface.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvfindhandregion.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvfindhandregion.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvfuzzymeanshifttracker.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvfuzzymeanshifttracker.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvhmm.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvhmm.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvhmm1d.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvhmm1d.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvhmmobs.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvhmmobs.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvhog.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvhog.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvlcm.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvlcm.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvlee.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvlee.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvlevmar.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvlevmar.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvlevmarprojbandle.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvlevmarprojbandle.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvlevmartrif.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvlevmartrif.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvlines.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvlines.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvlmeds.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvlmeds.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvmat.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvmat.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvmorphcontours.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvmorphcontours.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvmorphing.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvmorphing.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvoctree.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvoctree.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvoneway.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvoneway.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvplanardetect.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvplanardetect.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvprewarp.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvprewarp.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvscanlines.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvscanlines.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvsegment.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvsegment.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvselfsimilarity.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvselfsimilarity.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvspinimages.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvspinimages.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvsubdiv2.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvsubdiv2.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvtexture.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvtexture.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvtrifocal.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvtrifocal.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvvecfacetracking.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvvecfacetracking.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/cvvideo.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/cvvideo.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/decomppoly.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/decomppoly.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/enmin.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/enmin.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/extendededges.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/extendededges.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/bgfg_estimation.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/bgfg_estimation.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackanalysis.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackanalysis.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackanalysishist.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackanalysishist.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackanalysisior.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackanalysisior.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackanalysistrackdist.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackanalysistrackdist.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackgen1.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackgen1.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackgenyml.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackgenyml.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackingauto.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackingauto.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackingcc.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackingcc.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackingccwithcr.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackingccwithcr.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackingkalman.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackingkalman.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackinglist.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackinglist.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackingmsfg.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackingmsfg.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackingmsfgs.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackingmsfgs.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackpostprockalman.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackpostprockalman.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackpostproclinear.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackpostproclinear.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/blobtrackpostproclist.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/blobtrackpostproclist.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/enteringblobdetection.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/enteringblobdetection.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/enteringblobdetectionreal.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/enteringblobdetectionreal.o"
+  "/home/quocnam/OpenCV-2.0.0/src/cvaux/vs/testseq.cpp" "/home/quocnam/OpenCV-2.0.0/release/src/cvaux/CMakeFiles/cvaux.dir/vs/testseq.o"
+  )
+SET(CMAKE_CXX_COMPILER_ID "GNU")
+
+# Preprocessor definitions for this target.
+SET(CMAKE_TARGET_DEFINITIONS
+  "HAVE_CONFIG_H"
+  "CVAPI_EXPORTS"
+  )
+
+# Pairs of files generated by the same build rule.
+SET(CMAKE_MULTIPLE_OUTPUT_PAIRS
+  "/home/quocnam/OpenCV-2.0.0/release/lib/libcvaux.so" "/home/quocnam/OpenCV-2.0.0/release/lib/libcvaux.so.2.0.0"
+  "/home/quocnam/OpenCV-2.0.0/release/lib/libcvaux.so.2.0" "/home/quocnam/OpenCV-2.0.0/release/lib/libcvaux.so.2.0.0"
+  )
+
+
+# Targets to which this target links.
+SET(CMAKE_TARGET_LINKED_INFO_FILES
+  "/home/quocnam/OpenCV-2.0.0/release/src/cxcore/CMakeFiles/cxcore.dir/DependInfo.cmake"
+  "/home/quocnam/OpenCV-2.0.0/release/src/cv/CMakeFiles/cv.dir/DependInfo.cmake"
+  "/home/quocnam/OpenCV-2.0.0/release/src/highgui/CMakeFiles/highgui.dir/DependInfo.cmake"
+  "/home/quocnam/OpenCV-2.0.0/release/src/ml/CMakeFiles/ml.dir/DependInfo.cmake"
+  "/home/quocnam/OpenCV-2.0.0/release/3rdparty/lapack/CMakeFiles/opencv_lapack.dir/DependInfo.cmake"
+  "/home/quocnam/OpenCV-2.0.0/release/3rdparty/zlib/CMakeFiles/zlib.dir/DependInfo.cmake"
+  "/home/quocnam/OpenCV-2.0.0/release/3rdparty/flann/CMakeFiles/flann.dir/DependInfo.cmake"
+  )
