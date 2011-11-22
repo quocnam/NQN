@@ -76,7 +76,7 @@ Error when can't type some command in terminal fixed:install GNU core utinity in
 +crontab -l(display crontab)
 +echo "text" >> filename.txt(add text to file)
 
-******************************************************************************************************************************
+*********************************************************************************************************************
 
    1. Before you begin this, please make sure you make a backup copy of the original file in case you make a mistake, this way you can always go back to the original configuration - always backup before you begin doing something like this.)
    2. Find the httpd.conf file (usually you will find it in a folder called conf, config or something along those lines. In Fedora you can find it at /etc/httpd/ directory.)
@@ -86,7 +86,7 @@ Error when can't type some command in terminal fixed:install GNU core utinity in
    6. Done
 
 
-*********************************************************************************************************************************
+*********************************************************************************************************************
 
 
 Here i am going to describe how to enable mod_rewrite in apache2.2 -specaily for debian.
@@ -155,7 +155,7 @@ thanks.
 
 if you like my post, please tweet it, so other also can see this post.
 
-*******************************************************************************************************************
+*********************************************************************************************************************
 
 100314849240273
 
@@ -199,7 +199,7 @@ Vào lúc 6h 30' chiều ngày thứ tư và ngày thứ sáu trong tuần sẽ 
 
 ssh account at 84.19.193.101
 deployer / Cedm7feb
-**************************************************************************************************************
+*********************************************************************************************************************
 
 
 http://stackoverflow.com/questions/2330550/codeigniter-pagination-problem(pagation)
