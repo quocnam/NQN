@@ -22,7 +22,7 @@ DOCUMENT OF NGUYEN QUOC NAM
 | http://opencv.willowgarage.com/wiki/FaceDetection(FACEDETECT VERY GOOD)
 | http://www.shervinemami.info/faceRecognition.html(FACE RECOGNITION)
 | http://cairographics.org/examples/(Python draw 3D)
-| http://website24h.info/signup.php(register host free)
+| http://website24h.info/signup.php(Register host free)
  -----------------------------------------------------------------------------------------------
 
 http://www.phpeveryday.com/articles/CodeIgniter-Form-Creating-Skeleton-P228.html
