@@ -21,6 +21,7 @@ DOCUMENT OF NGUYEN QUOC NAM
 | http://www.devside.net/guides/linux/apache-ssl-deflate(Config SSL Apache on linux)
 | http://opencv.willowgarage.com/wiki/FaceDetection(FACEDETECT VERY GOOD)
 | http://www.shervinemami.info/faceRecognition.html(FACE RECOGNITION)
+| http://cairographics.org/examples/(Python draw 3D)
  -----------------------------------------------------------------------------------------------
 
 http://www.phpeveryday.com/articles/CodeIgniter-Form-Creating-Skeleton-P228.html
