@@ -27,7 +27,7 @@ sudo chmod u+x /usr/local/lib/drush/drush
 sudo ln -s /usr/local/lib/drush/drush /usr/bin/drush
 
 
-
+http://2011.drupalcampla.com/sessions/drush-drush-make(good link for drush,drush make)
 http://www.twohard.com/blog/introducing-drush-drush-make-and-installation-profiles(Guide use Drush)
 
 
@@ -301,7 +301,7 @@ http://www.dailybits.com/11-undiscovered-website-ideas-to-steal-and-make-you-ric
 
 http://www.mediafire.com/?0uuz0ragag5uu(F1 game)
 
-
+List pass:quocnam,quocnam1989,951753,1258974563,0986173581
 
 
 
