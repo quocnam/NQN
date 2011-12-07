@@ -1,9 +1,46 @@
+Install drush with pear.(must install pear before)
+ sudo pear channel-discover pear.drush.org
+ sudo pear install drush/drush
+ sudo pear install drush/drush-5.0.0
+Link drush on server to drush on site.
+ Untar the tarball into a folder outside of your web site
+ $sudo chmod u+x /path/to/drush/drush
+ $ ln -s /path/to/drush/drush /usr/local/bin/drush
+ Run by cd /site/drush and type ./drush
+
+Other way(must drush on computer before)
+1. Download drush.tar.gz to your desktop (or wherever)
+
+2. Jump across to the Terminal
+cd ~/Desktop
+
+3. Extract it with
+tar -zxf drush.tar.gz
+
+4. Move it to /usr/local/lib
+sudo mv drush /usr/local/lib/
+
+5. Make it executable
+sudo chmod u+x /usr/local/lib/drush/drush
+
+6. Then stick it in /usr/bin/ so that you can run it from anywhere
+sudo ln -s /usr/local/lib/drush/drush /usr/bin/drush
 
 
-g++ `pkg-config opencv --cflags --libs` image-conversion.c -o image-conversion
-To execute type command: ./image-conversion
 
- ------------------------------------------------
+http://www.twohard.com/blog/introducing-drush-drush-make-and-installation-profiles(Guide use Drush)
+
+
+-To complie g++ `pkg-config opencv --cflags --libs` image-conversion.c -o image-conversion
+-To execute type command: ./image-conversion
+
+
+mysqldump -uroot -pquocnam freifunk -T /tmp/
+mysqlimport --local --force --ignore -uroot -pquocnam tintuc_db /tmp/*.sql
+
+
+
+--------------------------------------------------------------------------------------------------------
 | idea about face recognition via webcam php code
 | http://forum.ubuntu-vn.org/viewtopic.php?f=101&t=13991(tu dong login with your face)
 | http://vnitclub.org/forum/showthread.php?p=36967(create virtual host apache)
@@ -23,8 +60,21 @@ To execute type command: ./image-conversion
 | http://opencv.willowgarage.com/wiki/FaceDetection(FACEDETECT VERY GOOD)
 | http://www.shervinemami.info/faceRecognition.html(FACE RECOGNITION)
 | http://pebibyte.wordpress.com/2011/01/21/simple-face-recognition-using-opencv/(Face recognition)
- ------------------------------------------------
+| http://designbye.wordpress.com/2010/02/23/installing-swftools-and-pdf2swf-on-ubuntu-linux/(Guide install swftool on linux)
+| http://davidwalsh.name/gmail-php-imap(Retrieve Your Gmail Emails Using PHP and IMAP)
+| http://khanhnn.com/index.php?language=vi&nv=news&op=HDH-Linux/Thiet-lap-he-thong-mang-Ubuntu-quan-ly-tap-trung-voi-LDAP-160(Guide use LDAP server on linux)
+| http://knol.google.com/k/how-to-install-drupal-with-drush#(Guide install drush)
+| http://www.codingforums.com/showthread.php?t=217385(Code embed google map into website)
+--------------------------------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------------------------------
+|*There some note When install drupal to host
+|-Edit line below in settings.php to match with(username,password,host,database that registered before) 
+|$db_url = 'mysql://web24_9678934:quocnam@sql301.website24h.info/web24_9678934_drupal';
+|-Add 2line below into settings.php if when appear mbstring error
+|ini_set('mbstring.http_input', 'pass');
+|ini_set('mbstring.http_output', 'pass');   
+--------------------------------------------------------------------------------------------------------
 http://www.phpeveryday.com/articles/CodeIgniter-Form-Creating-Skeleton-P228.html
 
 http://www.lavluda.com/2007/07/15/how-to-enable-mod_rewrite-in-apache22-debian/(enable mod_rewrite)
