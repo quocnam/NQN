@@ -1,3 +1,6 @@
+Filter html format=1
+Full html format=2
+
 Install drush with pear.(must install pear before)
  sudo pear channel-discover pear.drush.org
  sudo pear install drush/drush
