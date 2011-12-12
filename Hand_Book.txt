@@ -32,6 +32,7 @@ sudo ln -s /usr/local/lib/drush/drush /usr/bin/drush
 
 http://2011.drupalcampla.com/sessions/drush-drush-make(good link for drush,drush make)
 http://www.twohard.com/blog/introducing-drush-drush-make-and-installation-profiles(Guide use Drush)
+http://luhman.org/blog/2010/05/02/installing-and-using-drush-make(Guide install Drush Make)
 
 
 -To complie g++ `pkg-config opencv --cflags --libs` image-conversion.c -o image-conversion
