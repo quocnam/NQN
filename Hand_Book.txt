@@ -1,3 +1,12 @@
+http://yoodey.com/how-install-varnish-ubuntu-1010-maven-maverick-using-amazon-ec2(guide install and config varnish web cache on ubuntu 10.10)
+http://www.ubuntudog.com/?article=18(install require libraries for phpmotion)
+Fix error phpSheild when install phpmotion.
+dowload ixed4.lin.x86-32.tar.gz extract then copy all files to usr/lib/php5/2009062+lfs
+add 2line below to /etc/php5/apache2/php.ini 
+extension = "ixed.5.3.lin"
+extension_ts = "ixed.5.3ts.lin"
+restart apache2 
+
 Filter html format=1
 Full html format=2
 
@@ -33,6 +42,7 @@ sudo ln -s /usr/local/lib/drush/drush /usr/bin/drush
 http://2011.drupalcampla.com/sessions/drush-drush-make(good link for drush,drush make)
 http://www.twohard.com/blog/introducing-drush-drush-make-and-installation-profiles(Guide use Drush)
 http://luhman.org/blog/2010/05/02/installing-and-using-drush-make(Guide install Drush Make)
+http://blog.cuongnv.com/2009/08/su-dung-nginx-va-memcached-e-tang-toc.html(nginx and memcached)
 
 
 -To complie g++ `pkg-config opencv --cflags --libs` image-conversion.c -o image-conversion
