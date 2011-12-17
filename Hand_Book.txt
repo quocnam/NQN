@@ -1,6 +1,7 @@
 http://yoodey.com/how-install-varnish-ubuntu-1010-maven-maverick-using-amazon-ec2(guide install and config varnish web cache on ubuntu 10.10)
 http://www.euperia.com/linux/setting-up-varnish-with-apache-tutorial/299(Varnish sample)
 http://developmentseed.org/blog/2010/jan/04/using-varnish-pressflow-make-managing-news-faster/(using-varnish-pressflow-make-managing-news-faster)
+http://afghanistanelectiondata.org/election/2009/data/(nice website make by managing news)
 http://www.ubuntudog.com/?article=18(install require libraries for phpmotion)
 Fix error phpSheild when install phpmotion.
 dowload ixed4.lin.x86-32.tar.gz extract then copy all files to usr/lib/php5/2009062+lfs
