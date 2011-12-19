@@ -17,6 +17,8 @@ restart apache2
 Filter html format=1
 Full html format=2
 
+To clean URL for Apache /etc/apache2/sites-enabled/000-default set AllowOverride of /var/www to All
+
 Install drush with pear.(must install pear before)
  sudo pear channel-discover pear.drush.org
  sudo pear install drush/drush
