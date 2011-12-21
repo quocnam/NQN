@@ -1,3 +1,4 @@
+http://www.tylerfrankenstein.com/code/android-app-with-drupal-7-services-phonegap-and-jquery-mobile(Good link for use Content API drupal in Android)
 http://yoodey.com/how-install-varnish-ubuntu-1010-maven-maverick-using-amazon-ec2(guide install and config varnish web cache on ubuntu 10.10)
 http://www.euperia.com/linux/setting-up-varnish-with-apache-tutorial/299(Varnish sample)
 http://developmentseed.org/blog/2010/jan/04/using-varnish-pressflow-make-managing-news-faster/(using-varnish-pressflow-make-managing-news-faster)
@@ -5,6 +6,7 @@ https://wiki.fourkitchens.com/display/PF/Building+Pressflow+with+HipHop+PHP+on+U
 https://wiki.fourkitchens.com/display/PF/Building+Pressflow+with+HipHop+PHP+on+Ubuntu+9.10(good link)
 http://blogs.osuosl.org/gchaix/2009/10/12/pressflow-varnish-and-caching/(Applpy Varnish to pressflow)
 http://library.linode.com/application-stacks/project-mercury/ubuntu-9.10-karmic(Full link about Mercury on ubuntu)
+http://www.modernfidelity.co.uk/tech/(Link about Tech)
 http://afghanistanelectiondata.org/election/2009/data/(nice website make by managing news)
 http://www.ubuntudog.com/?article=18(install require libraries for phpmotion)
 Fix error phpSheild when install phpmotion.
