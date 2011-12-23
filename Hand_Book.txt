@@ -1,3 +1,5 @@
+Note:create map like drupal.org for e-Videos.com 
+git@github.com:quocnam/NQN.git
 http://www.tylerfrankenstein.com/code/android-app-with-drupal-7-services-phonegap-and-jquery-mobile(Good link for use Content API drupal in Android)
 http://yoodey.com/how-install-varnish-ubuntu-1010-maven-maverick-using-amazon-ec2(guide install and config varnish web cache on ubuntu 10.10)
 http://www.euperia.com/linux/setting-up-varnish-with-apache-tutorial/299(Varnish sample)
