@@ -1,3 +1,6 @@
+http://vimeo.com/25995219(Gallery image world map)
+https://github.com/brycecurtis/articles/tree/master/CameraUpload(Camera on Phonegap processing)
+https://github.com/phonegap/phonegap-plugins/tree/master/Android()
 http://jquery-ui-map.googlecode.com/svn/trunk/demos/jquery-mobile-example.html(Map on mobile)
 Note:Create Android app relate barcode
 Note:create map like drupal.org for e-Videos.com 
