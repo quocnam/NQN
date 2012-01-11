@@ -1,3 +1,8 @@
+http://www.drupalove.com/article/100-drupal-views-tutorials-and-resources(drupal tips)
+http://tutorialzine.com/2011/04/jquery-webcam-photobooth/(webcam)
+http://jamestombs.co.uk/2011-05-26/create-album-based-image-gallery-drupal-7-using-fields-and-views
+http://www.symphonythemes.com/drupal-blog/use-jquery-cycle-create-slideshow-block-drupal(create slideshow drupal)
+http://peterlozano.com/camera-drupal-instant-image-distribution(drupal vs camera)
 http://vimeo.com/25995219(Gallery image world map)
 https://github.com/brycecurtis/articles/tree/master/CameraUpload(Camera on Phonegap processing)
 https://github.com/phonegap/phonegap-plugins/tree/master/Android()
