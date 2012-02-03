@@ -1,3 +1,4 @@
+http://code.google.com/apis/maps/documentation/javascript/v2/examples/(Sample Gmap from google)
 http://www.drupalove.com/article/100-drupal-views-tutorials-and-resources(drupal tips)
 http://tutorialzine.com/2011/04/jquery-webcam-photobooth/(webcam)
 http://jamestombs.co.uk/2011-05-26/create-album-based-image-gallery-drupal-7-using-fields-and-views
@@ -7,7 +8,6 @@ http://vimeo.com/25995219(Gallery image world map)
 https://github.com/brycecurtis/articles/tree/master/CameraUpload(Camera on Phonegap processing)
 https://github.com/phonegap/phonegap-plugins/tree/master/Android()
 http://jquery-ui-map.googlecode.com/svn/trunk/demos/jquery-mobile-example.html(Map on mobile)
-Note:Create Android app relate barcode
 Note:create map like drupal.org for e-Videos.com 
 git@github.com:quocnam/NQN.git
 http://www.tylerfrankenstein.com/code/android-app-with-drupal-7-services-phonegap-and-jquery-mobile(Good link for use Content API drupal in Android)
@@ -74,6 +74,7 @@ http://blog.cuongnv.com/2009/08/su-dung-nginx-va-memcached-e-tang-toc.html(nginx
 
 mysqldump -uroot -pquocnam freifunk -T /tmp/
 mysqlimport --local --force --ignore -uroot -pquocnam tintuc_db /tmp/*.sql
+mysql -uroot -pquocnam dbname << filename.sql
 
 
 
@@ -248,17 +249,6 @@ if you like my post, please tweet it, so other also can see this post.
 
 100314849240273
 
-
-http://nvsplocal.spectos.com/epm/index.php/questionnaires/survey/97/e2ef524fbf3d9fe611d5a8e90fefdc9c
-
-
-quocnam@quocnam-Inspiron-1464:/var/www/dma_epm/nvsp$ svn up
-svn: Failed to add file 'marskramer_new.html': an unversioned file of the same name already exists
-
-
-if ($sticker_email == FALSE) $default_value = 'No';
-else $default_value = 'Yes';
-
 *************************************************************************************************************************************
 
 BACKUP DB with CRONTAB
@@ -326,17 +316,11 @@ https://chart.googleapis.com/chart?cht=p&chf=bg,lg,90,000000,1,4A465A,0&chs=360x
 
 http://code.google.com/apis/chart/image/docs/gallery/googleometer_chart.html#axis_label_styles(style label google chart)
 
-http://diendanbaclieu.net/diendan/showthread.php?5237-Corel-DRAW-12-Full-Crack-Link-mediafire(Link dowload corel draw)
-
-http://thaihoatoday.vn/diendan/showthread.php?p=328425(dowload game PES)
 
 http://www.mediafire.com/?sharekey=e9100d90f003746e8c9e7c56ba37815fa6a09dd08c634a3d(GTA San Andreas)
 
 http://www.dailybits.com/11-undiscovered-website-ideas-to-steal-and-make-you-rich/(new ideas for web)
 
-
-
-http://www.mediafire.com/?0uuz0ragag5uu(F1 game)
 
 List pass:quocnam,quocnam1989,951753,1258974563,0986173581
 
