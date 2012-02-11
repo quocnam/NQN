@@ -11,7 +11,11 @@ http://jquery-ui-map.googlecode.com/svn/trunk/demos/jquery-mobile-example.html(M
 Note:create map like drupal.org for e-Videos.com 
 git@github.com:quocnam/NQN.git
 
+sudo nano /etc/ssh/sshd_config 
+ 
 http://principialabs.com/beginning-ssh-on-ubuntu/(Using SSH on ubuntu)
+
+http://bogdan.org.ua/2009/05/04/drupal-views-how-to-display-random-nodes-content-block-page.html(Create block images random with D6 D7)
 
 http://www.tylerfrankenstein.com/code/android-app-with-drupal-7-services-phonegap-and-jquery-mobile(Good link for use Content API drupal in Android)
 http://yoodey.com/how-install-varnish-ubuntu-1010-maven-maverick-using-amazon-ec2(guide install and config varnish web cache on ubuntu 10.10)
